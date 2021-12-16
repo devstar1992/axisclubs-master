@@ -3,7 +3,7 @@ import React from 'react';
 import Snackbar from "components/Snackbar.js";
 
 import {
-  FaTelegram
+  FaTelegram, FaDownload
 } from 'react-icons/fa';
 import {
   MdNotificationsActive
@@ -154,6 +154,7 @@ class MainLayout extends React.Component {
               
             
           <a href="https://t.me/Crystalwinners" className="btn btn-primary telegram"><FaTelegram /> </a>
+          <a href="/Crystalwinner.apk" download className="btn btn-success whatsapp"><FaDownload /> </a>
           {children}
           <Footer />
         </Content>

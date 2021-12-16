@@ -473,7 +473,7 @@ class AuthForm extends React.Component {
                 <img
                   src={logo200Image}
                   className="rounded"
-                  style={{ width: 264, height: 60, cursor: 'pointer' }}
+                  style={{ width: 150, height: 150, cursor: 'pointer' }}
                   alt="logo"
                   onClick={onLogoClick}
                 />
@@ -595,7 +595,7 @@ class AuthForm extends React.Component {
                 <img
                   src={logo200Image}
                   className="rounded"
-                  style={{ width: 264, height: 60, cursor: 'pointer' }}
+                  style={{ width: 150, height: 150, cursor: 'pointer' }}
                   alt="logo"
                   onClick={onLogoClick}
                 />
