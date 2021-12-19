@@ -28,7 +28,7 @@ const PolicyPage = () => {
         entitled to vote for election of directors or other managing authority.
       </li><li><strong>Account</strong> means a unique account created for You to access our Service or parts of our
         Service.
-      </li><li><strong>Website</strong> refers to Crystal Winner, accessible from https://crystalwinner.com</li><li><strong>Service</strong> refers to the Website.</li><li><strong>Country</strong> refers to: Uttar Pradesh, India</li><li><p><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of
+      </li><li><strong>Website</strong> refers to Crystal Winner, accessible from https://crystalswinner.com</li><li><strong>Service</strong> refers to the Website.</li><li><strong>Country</strong> refers to: Uttar Pradesh, India</li><li><p><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of
           the Company. It refers to third-party companies or individuals employed by the Company to facilitate the
           Service, to provide the Service on behalf of the Company, to perform services related to the Service or
           to assist the Company in analyzing how the Service is used.</p></li><li><strong>Third-party Social Media Service</strong> refers to any website or any social network website
@@ -122,7 +122,7 @@ const PolicyPage = () => {
       Privacy
       Policy on this page.</p><p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective
       and update the "Last updated" date at the top of this Privacy Policy.</p><p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are
-      effective when they are posted on this page.</p><h1>Contact Us</h1><p>If you have any questions about this Privacy Policy, You can contact us:</p><ul><li>By visiting this page on our website: https://crystalwinner.com/#/suggestion</li></ul>
+      effective when they are posted on this page.</p><h1>Contact Us</h1><p>If you have any questions about this Privacy Policy, You can contact us:</p><ul><li>By visiting this page on our website: https://crystalswinner.com/#/suggestion</li></ul>
         </div>
         </Col>
      

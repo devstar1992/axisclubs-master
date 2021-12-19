@@ -28,7 +28,7 @@ const PolicyPage = () => {
         entitled to vote for election of directors or other managing authority.
       </li><li><strong>Account</strong> means a unique account created for You to access our Service or parts of our
         Service.
-      </li><li><strong>Website</strong> refers to Crystal Winner, accessible from https://crystalwinner.com</li><li><strong>Service</strong> refers to the Website.</li><li><strong>Country</strong> refers to: Uttar Pradesh, India</li><li><p><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of
+      </li><li><strong>Website</strong> refers to Crystal Winner, accessible from https://crystalswinner.com</li><li><strong>Service</strong> refers to the Website.</li><li><strong>Country</strong> refers to: Uttar Pradesh, India</li><li><p><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of
           the Company. It refers to third-party companies or individuals employed by the Company to facilitate the
           Service, to provide the Service on behalf of the Company, to perform services related to the Service or
           to assist the Company in analyzing how the Service is used.</p></li><li><strong>Third-party Social Media Service</strong> refers to any website or any social network website
